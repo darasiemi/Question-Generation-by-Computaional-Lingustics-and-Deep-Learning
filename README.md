@@ -1,1 +1,3 @@
-# Question-Generation-by-Computaional-Lingustics-and-Deep-Learning
+Question generation is the process of automatically creating questions from a given text, dataset, or knowledge base. It involves applying natural language processing (NLP) techniques to identify key information, structure it into a queryable form, and frame questions that are coherent and contextually appropriate. This technology is commonly used in educational technology to create practice quizzes, in conversational AI to enhance user engagement, and in data analysis to automate the extraction of insights.
+
+This repository provides an implementation of a question generation system, using computational linguistics and also deep learning methods.
